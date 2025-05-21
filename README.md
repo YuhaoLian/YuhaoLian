@@ -11,7 +11,7 @@
 
 ## 🏆 GitHub Stats  
   <p align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=YuhaoLian&show_icons=true&theme=radical&hide_border=true" width="55%"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=YuhaoLian&show_icons=true&theme=radical&hide_border=true" width="52%"/>  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuhaoLian&langs_count=8&layout=compact&theme=radical&hide_border=true" width="40%"/>  
   </p>  
 
