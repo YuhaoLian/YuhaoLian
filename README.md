@@ -19,7 +19,7 @@
 
 ## 📈 Activity & Contributions  
 <p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuhaoLian&theme=xcode&hide_border=true" alt="Activity Graph" width="80%"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuhaoLian&theme=xcode&hide_border=true" alt="Activity Graph" width="100%"/>  
 </p>  
 
 
