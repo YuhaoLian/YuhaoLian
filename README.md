@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Yuhao Lian
 - 🌱 I’m currently a Master student at Zhejiang University learning for Muti-drones RFID by deep learning.
 
-![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhaoLian) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhaoLian&size_weight=0.3&count_weight=0.3&langs_count=8)
+![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhaoLian) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhaoLian&size_weight=0.1&count_weight=0.1&langs_count=6)
 
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YuhaoLian&theme=xcode)
 
