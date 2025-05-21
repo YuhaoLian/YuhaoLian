@@ -1,24 +1,38 @@
-## Hi there 👋 I am Yuhao Lian
-- 🌱 I’m currently a Master student at Zhejiang University learning for Muti-drones RFID by deep learning.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhaoLian&size_weight=0.1&count_weight=0.1&langs_count=6) ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhaoLian) 
-![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YuhaoLian&theme=xcode)
+# 👋 Hi there! I'm Yuhao Lian  
+🎓 Master Student at Zhejiang University  
+🔬 Research Focus: Multi-drones RFID with Deep Learning  
 
 
+## 📖 About Me  
+- 🌱 Currently learning: Deep Learning for IoT, UAV navigation, RFID signal processing  
+- 💻 Tech stack: Python, PyTorch, ROS, C++, MATLAB  
+- 📫 Contact: lianyuhao@zju.edu.cn  
+
+
+## 🏆 GitHub Stats  
+<details>  
+  <summary>📊 My GitHub Overview</summary>  
+  <p align="center">  
+    <img src="https://github-readme-stats.vercel.app/api?username=YuhaoLian&show_icons=true&theme=radical&hide_border=true" width="48%"/>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuhaoLian&langs_count=8&layout=compact&theme=radical&hide_border=true" width="48%"/>  
+  </p>  
+</details>  
+
+
+## 📈 Activity & Contributions  
+<p align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuhaoLian&theme=xcode&hide_border=true" alt="Activity Graph" width="80%"/>  
+</p>  
 
 
 
-<!--
-**YuhaoLian/YuhaoLian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Skills  
+- **Deep Learning**: CNN, LSTM, Transformers, YOLO  
+- **Tools**: PyTorch, MATLAB, Git  
+- **Languages**: Python, C++, MATLAB, SQL  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect  
+<a href="mailto:lianyuhao@ieee.org"><img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook" /></a>  
+<a href="https://www.piggylyh.cn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>  
+<!-- 添加更多平台链接，如个人博客、ResearchGate等 -->  
