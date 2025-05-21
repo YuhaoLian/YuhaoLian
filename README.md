@@ -6,7 +6,7 @@
 ## 📖 About Me  
 - 🌱 Currently learning: Deep Learning for IoT, UAV navigation, RFID signal processing  
 - 💻 Tech stack: Python, PyTorch, ROS, C++, MATLAB  
-- 📫 Contact: lianyuhao@zju.edu.cn  
+- 📫 Contact: yuhao_lian@zju.edu.cn or lianyuhao@ieee.org
 
 
 ## 🏆 GitHub Stats  
