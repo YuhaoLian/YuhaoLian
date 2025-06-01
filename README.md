@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Yuhao Lian  
 🎓 Master Student at Zhejiang University  
-🔬 Research Focus: Multi-drones RFID with Deep Learning  
+🔬 Research Focus: Multi-drones RFID with Deep Learning, NOMA for more users 
 
 
 ## 📖 About Me  
