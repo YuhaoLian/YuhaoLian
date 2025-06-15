@@ -27,7 +27,7 @@
 ## 📚 Skills  
 - **Deep Learning**: CNN, LSTM, Transformers, YOLO  
 - **Tools**: PyTorch, MATLAB, Git  
-- **Languages**: Python, C++, MATLAB, SQL  
+- **Languages**: Python, C++, MATLAB  
 
 
 ## 📫 Let's Connect  
